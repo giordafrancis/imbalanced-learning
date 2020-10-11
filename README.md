@@ -1,5 +1,4 @@
 
-
 The tutorials are divided into six parts; they are:
 
 - Part 1:  Foundations.  Discover a gentle introduction to the field of imbalanced classification, the intuitions for skewed class distributions, and properties of datasets that make these problems challenging.
